@@ -12,6 +12,8 @@
     <string name="backgroundsvg">backgroundSvg</string>
     <string name="beachtime">beachTime</string>
     <string name="plate">plate</string>
+    <string name="summer">summerbackground</string>
+    <string name="luggage">luggage</string>
 
     <string-array name="sexGroup">
         <item>Select Gender</item>
